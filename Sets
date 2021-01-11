@@ -6422,11 +6422,21 @@ Timid/Modest Nature
 Dreameme @ Leftovers
 Ability: Multiscale
 EVs: 252 HP/4 Def/ 252 SpD
-Calm Nature
+Calm/Sassy Nature
 -Moonblast
--Spikes
+-Spikes/Teleport/Knock Off
 -Mop/Defog
 -Softboiled/Moonlight
+
+Dreameme @ Leftovers
+Ability: Multiscale
+EVs: 252 HP/4 Def/252 SpD
+Sassy Nature
+IVs: 0 Spe
+-Moonblast
+-Softboiled
+-Trick Room
+-Teleport
 
 Pearchie @ Lum Berry/Sitrus Berry/Iapapa Berry 
 Ability: Reckless
