@@ -6158,7 +6158,7 @@ Timid Nature
 
 Hornititan @ Choice Band
 Ability: Refrigerate 
-EVs: 252 HP/252 Atk/4 Def
+EVs: 252 Atk/4 Def/252 Spe
 Adamant Nature
 -Earthquake
 -Return/Double-Edge
@@ -6173,6 +6173,15 @@ Impish Nature
 -Rapid Spin
 -Earthquake/Glare/Toxic/Lovely Kiss
 -Icicle Crash/Glare/Toxic/Lovely Kiss
+
+Hornititan @ Weakness Policy
+Ability: Refrigerate/Filter
+EVs: 252 Atk/4 Def/252 Spe
+Jolly Nature
+-Rapid Spin/Recover
+-Earthquake
+-Return/Double-Edge/Icicle Crash
+-Rock Polish
 
 Undastand @ Leftovers
 Ability: Wait For It
