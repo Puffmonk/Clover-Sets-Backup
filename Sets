@@ -6620,10 +6620,10 @@ Adamant Nature
 
 Sesquatch @ Leftovers
 Ability: Suddenly
-EVs: 252 Atk/4 SpD/252 Spe
-Jolly Nature
--Substitute
--Disable
+EVs: 252 HP/4 Def/252 SpD
+Careful Nature
+-Slack Off
+-Bulk Up
 -Skull Bash
 -Shadow Force
 
