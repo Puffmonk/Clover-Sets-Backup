@@ -4577,6 +4577,15 @@ Timid/Modest Nature
 -Aura Sphere/Earth Power
 -Rock Polish
 
+Regirode @ Weakness Policy
+Ability: Weak Armor
+EVs: 252 SpA/4 SpD/252 Spe
+Timid/Modest Nature
+-Spooperpower
+-Erosion Wave
+-Aura Sphere/Rock Polish
+-Earth Power/Rock Polish
+
 Regimelt @ Choice Band
 Ability: Shadow Shield
 EVs: 252 Atk/4 Def/252 Spe
@@ -4603,6 +4612,15 @@ Jolly/Adamant Nature
 -Spooperpower
 -Liquidation/Earthquake/Superpower
 -Agility
+
+Regimelt @ Weakness Policy
+Ability: Weak Armor
+EVs: 252 Atk/4 Def/252 Spe
+Jolly/Adamant Nature
+-Icicle Crash
+-Spooperpower
+-Liquidation/Superpower
+-Earthquake
 
 Regirust @ Leftovers
 Ability: Shadow Shield
