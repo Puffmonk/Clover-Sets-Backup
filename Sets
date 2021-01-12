@@ -1996,7 +1996,7 @@ Quiet Nature
 -Trick Room
 -Nasty Plot
 -Baddy Bad
--Parting Shot
+-Parting Shot/Stealth Rock
 (don't use swindle or else you'll mess up Jewelry by taking their item after the gem is used up)
 
 Chantruth @ Choice Specs
@@ -2023,8 +2023,8 @@ EVs: 252 SpA/4 SpD/252 Spe
 Timid/Modest Nature
 -Nasty Plot/Calm Mind
 -Baddy Bad
--Parting Shot
--Taunt
+-Parting Shot/Stealth Rock
+-Taunt/Stealth Rock
 
 Chantruth @ Choice Scarf
 Ability: Magnet Pull
@@ -2719,7 +2719,7 @@ Jolly/Adamant Nature
 -Head Charge
 -Flare Blitz/Earthquake
 -High Jump Kick/Earthquake
--Swords Dance
+-Bulk Up
 
 Glassannon @ Life Orb
 Ability: Speed Boost
@@ -2737,7 +2737,7 @@ Mild Nature
 -Protect
 -Ice Beam
 -Thunderbolt/Flash Cannon
--Earthquake
+-Earthquake/Explosion
 
 Glassannon @ Life Orb/Focus Sash
 Ability: Speed Boost
@@ -2902,6 +2902,16 @@ Impish Nature
 -Toxic/Haze/Stealth Rock
 -Heavy Slam/Torment/Haze/Stealth Rock
 -Wish
+
+Lossolith @ Mental Herb  
+Ability: Levitate  
+EVs: 252 HP/16 Def/240 SpD  
+Relaxed Nature  
+IVs: 0 Spe  
+-Trick Room  
+-Stealth Rock  
+-Teleport  
+-Heavy Slam
 
 Mimimie @ Choice Specs
 Ability: Misty Surge/Serene Grace
@@ -3676,10 +3686,20 @@ Draconius @ Choice Band
 Ability: Huge Power
 EVs: 4 HP/252 Atk/252 Spe
 Adamant Nature
--Fire Punch/Earthquake
+-Fire Punch/Earthquake/Facade
 -Return/Double-Edge
 -Dragon Claw/Outrage
 -Quick Attack
+
+Draconius @ Choice Band/Life Orb
+Ability: Huge Power
+EVs: 252 HP/252 Atk/4 SpD
+Brave Nature
+IVs: 0 Spe
+-Double-Edge
+-Quick Attack
+-Earthquake
+-Fire Punch/Outrage/Facade
 
 Draconius @ Life Orb/Silk Scarf
 Ability: Huge Power
@@ -4024,6 +4044,16 @@ IVs: 0 Spe
 -Meteor Mash
 -Psychic Fangs
 -Earthquake/Stealth Rock
+
+Uwotto @ Leftovers/Mental Herb
+Ability: Intimidate
+EVs: 252 HP/252 Def/4 SpD
+Relaxed Nature
+IVs: 0 Spe
+-Trick Room
+-Teleport
+-Psychic Fangs/Meteor Mash
+-Defog/Stealth Rock
 
 Uwotto @ Life Orb/Lum Berry/Weakness Policy
 EVs: 252 Atk/4 Def/252 Spe
@@ -5958,6 +5988,15 @@ Adamant/Jolly Nature
 -Heat Crash
 -Brave Bird/Acrobatics
 
+Avianjoin @ Flame Orb  
+Ability: Flare Heal  
+EVs: 252 HP/4 Def/252 SpD  
+Careful Nature  
+-Bulk Up  
+-Roost  
+-Heavy Slam  
+-Brave Bird/Heat Crash
+
 Avianjoin @ Flame Orb
 Ability: Flare Heal
 EVs: 252 HP/252 Def/4 SpD
@@ -6164,6 +6203,15 @@ Adamant Nature
 -Return/Double-Edge
 -Ice Shard
 -Explosion
+
+Hornititan @ Leftovers/Weakness Policy
+Ability: Filter
+EVs: 252 HP/4 Def/252 SpD
+Careful Nature
+-Recover
+-Earthquake
+-Icicle Crash
+-Bulk Up
 
 Hornititan @ Leftovers
 Ability: Filter
