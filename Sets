@@ -3511,6 +3511,16 @@ Timid/Modest Nature
 -Psychic/Softboiled
 
 Roynapalm @ Life Orb
+Ability: Flash Fire
+EVs: 252 HP/4 Def/252 SpA
+Quiet Nature
+IVs: 0 Spe
+-Giga Drain
+-Earth Power
+-Fire Blast
+-Leaf Storm/Softboiled
+
+Roynapalm @ Life Orb
 Ability: Chlorophyll
 EVs: 252 SpA/4 SpD/252 Spe
 Timid/Modest Nature
@@ -3526,7 +3536,7 @@ Timid/Modest Nature
 -Giga Drain
 -Earth Power
 -Fire Blast
--Hidden Power [Rock]/Hidden Power [Ice]
+-Hidden Power [Rock]/Hidden Power [Ice]/Leaf Storm
 
 Roynapalm @ Leftovers
 Ability: Flash Fire
@@ -3777,6 +3787,7 @@ Snugware @ Life Orb
 Ability: Download
 EVs: 252 HP/252 Atk/4 Def
 Brave Nature
+IVs: 0 Spe
 -Trick Room
 -Swords Dance
 -Plasma Fists
@@ -3901,7 +3912,7 @@ Quiet Nature
 
 Galavire @ Life Orb
 Ability: Levitate
-EVs: 252 SpA/4 Def/252 spe
+EVs: 252 SpA/4 Def/252 Spe
 Timid Nature
 -Flash Cannon
 -Hidden Power [Ice]/Overheat/Energy Ball
@@ -3910,7 +3921,7 @@ Timid Nature
 
 Galavire @ Leftovers
 Ability: Levitate
-EVs: 252 HP/4 Def/252 spe
+EVs: 252 HP/4 Def/252 Spe
 Timid Nature
 -Substitute
 -Disable
@@ -3919,7 +3930,7 @@ Timid Nature
 
 Galavire @ Life Orb
 Ability: Levitate
-EVs: 252 SpA/4 Def/252 spe
+EVs: 252 SpA/4 Def/252 Spe
 Timid Nature
 -Flash Cannon
 -Thunderbolt
@@ -3928,7 +3939,7 @@ Timid Nature
 
 Galavire @ Choice Specs/Choice Scarf
 Ability: Levitate
-EVs: 252 SpA/4 Def/252 spe
+EVs: 252 SpA/4 Def/252 Spe
 Timid/Modest Nature
 -Flash Cannon
 -Hidden Power [Ice]/Overheat/Energy Ball
