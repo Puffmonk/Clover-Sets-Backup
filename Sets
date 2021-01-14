@@ -2429,18 +2429,18 @@ Evacycle @ Leftovers
 Ability: Flame Body
 EVs: 252 HP/ 4 Def/ 252 SpD
 Bold Nature
--Cosmic Power/Calm Mind
+-Cosmic Power
 -Rest
 -Flash Cannon/Thunderbolt/Fire Blast
 -Stored Power
 
-Evacycle @ Leftovers/WIKI bWeakness Policy
+Evacycle @ Weakness Policy
 Ability: Flame Body/Unburden
 EVs: 12 HP/144 Def/252 SpA/100 Spe
 Modest Nature
--Calm Mind
+-Thunderbolt/Fire Blast
 -Shift Gear
--Flash Cannon/Thunderbolt/Fire Blast
+-Flash Cannon/Fire Blast
 -Stored Power
 
 Foryu @ Life Orb/Ground Gem/Fighting Gem
@@ -2582,10 +2582,10 @@ Oburonyxo @ Leftovers
 Ability: Magic Guard
 EVs: 252 HP/4 Def/252 SpD or 252 HP/252 Def/4 SpD
 Calm/Bold Nature
--Stealth Rock
+-Stealth Rock/Defog
 -Recover
 -Moonblast/Erosion Wave
--Glare/Toxic
+-Glare/Toxic/Defog
 
 Oburonyxo @ Life Orb
 Ability: Magic Guard
@@ -2620,9 +2620,9 @@ Oburonyxo @ Leftovers/Life Orb
 Ability: Magic Guard
 EVs: 252 HP/4 Def/252 SpD
 Careful Nature
--Coil
+-Curse
 -Recover
--Diamond Storm
+-Stone Edge/Earthquake
 -Pixie Pummel
 
 Deathorus @ Life Orb/Lum Berry/Flying Gem
