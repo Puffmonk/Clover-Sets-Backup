@@ -5424,7 +5424,7 @@ Traumobra @ Leftovers
 Ability: Prankster/Magic Bounce
 EVs: 252 HP/252 Def/4 SpD
 Bold Nature
--Sludge Bomb/Dazzling Gleam/Foul Play
+-Sludge Bomb/Moonblast/Foul Play
 -Glare/Toxic/Lovely Kiss/Will-O-Wisp
 -Encore/Taunt/Memento/Haze/Mop/Defog
 -Moonlight
@@ -5442,7 +5442,7 @@ Traumobra @ Light Clay
 Ability: Prankster
 EVs: 252 HP/252 Def/4 SpD
 Bold Nature
--Sludge Bomb/Memento
+-Sludge Bomb/Moonblast/Memento
 -Taunt
 -Light Screen
 -Reflect
@@ -5453,8 +5453,18 @@ EVs: 252 SpA/4 SpD/252 Spe
 Timid Nature
 -Sludge Wave
 -Moonblast
--Psychic/Energy Ball/Focus Blast
+-Psyshock/Energy Ball/Focus Blast
 -Nasty Plot
+
+Traumobra @ Black Sludge  
+Ability: Prankster  
+EVs: 252 HP/208 Def/48 SpD  
+Bold Nature  
+IVs: 0 Atk  
+-Moonlight  
+-Calm Mind  
+-Will-O-Wisp  
+-Moonblast
 
 Reptrill @ Life Orb
 Ability: Sheer Force
