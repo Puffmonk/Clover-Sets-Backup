@@ -6786,7 +6786,7 @@ Calm Nature
 -Earth Power/Shadow Ball
 -Recover
 
-Goryannus @ Focus Sash
+Goryannus @ Focus Sash/Life Orb
 Ability: Sheer Force
 EVs: 252 Atk/4 Def/252 Spe
 Jolly Nature
@@ -6801,7 +6801,7 @@ EVs: 252 Atk/4 Def/252 Spe
 Jolly Nature
 -Bonemerang/Earthquake
 -Shadow Bone
--Shadow Sneak/Play Rough/Icicle Crash/Rock Slide/Taunt/Recover
+-Shadow Sneak/Play Rough/Icicle Crash/Rock Climb/Taunt/Recover
 -Swords Dance
 
 Goryannus @ Life Orb
@@ -6810,7 +6810,7 @@ EVs: 252 Atk/4 Def/252 Spe
 Jolly Nature
 -Bonemerang/Earthquake
 -Shadow Bone
--Play Rough/Icicle Crash/Rock Slide
+-Play Rough/Icicle Crash/Rock Climb
 -Spook Out
 (use spook out like First Impression because it won't flinch due to sheer force)
 
@@ -6821,7 +6821,7 @@ Jolly Nature
 -Substitute
 -Earthquake/Bonemerang
 -Shadow Bone
--Recover/Play Rough/Icicle Crash/Rock Slide
+-Recover/Play Rough/Icicle Crash/Rock Climb
 
 Goryannus @ Choice Scarf
 Ability: Sheer Force
@@ -6829,7 +6829,7 @@ EVs: 252 Atk/4 Def/252 Spe
 Jolly Nature
 -Shadow Bone
 -Bonemerang/Earthquake
--Rock Slide/Icicle Crash
+-Rock Climb/Icicle Crash
 -Play Rough/Icicle Crash
 
 Funnedong @ Life Orb/Lum Berry
