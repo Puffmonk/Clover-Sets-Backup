@@ -2099,14 +2099,14 @@ Timid Nature
 -Roost
 
 Jarape @ Eviolite
-Ability: Solid Rock
+Ability: Prankster/Solid Rock
 EVs: 252 HP/252 Def/4 SpD 
 Relaxed Nature
 IVs: 0 Speed
 -Trick Room
--Stealth Rock
--Will-O-Wisp
--Discharge
+-Stealth Rock/Healing Wish/Teleport
+-Will-O-Wisp/Healing Wish/Teleport
+-Night Shade
 
 Jarape @ Eviolite
 Ability: Prankster
@@ -2115,7 +2115,7 @@ Bold Nature
 -Moonlight
 -Stealth Rock
 -Will-O-Wisp
--Discharge
+-Night Shade
 
 Spilefree @ Life Orb/Focus Sash
 Ability: Prankster
@@ -2713,13 +2713,22 @@ Adamant Nature
 -Substitute
 
 Knogrinyu @ Leftovers
-Ability: Sap Sipper/Mold Breaker
+Ability: Sap Sipper
 EVs: 252 HP/252 Def/4 SpD
 Impish Nature
--Wish/Milk Drink
--Protect/Toxic/Roar
--Heal Bell
+-Milk Drink
+-Wish
 -Body Slam
+-Toxic/Heal Bell/Roar
+
+Knogrinyu @ Leftovers
+Ability: Sap Sipper
+EVs: 252 HP/4 Def/252 SpD
+Careful Nature
+-Milk Drink
+-Wish
+-Body Slam
+-Toxic/Heal Bell/Roar
 
 Knogrinyu @ Choice Band
 Ability: Reckless
@@ -2977,13 +2986,23 @@ Timid Nature
 -Calm Mind
 
 Sprucifix @ Leftovers
-Ability: Wonder Guard
+Ability: Regenerator
 EVs: 252 HP/252 Def/4 SpD
 Impish Nature
--Toxic/Spikes/Disable/Block
--Aromatherapy/Spikes/Disable/Block
+-Toxic/Spikes
+-Aromatherapy/Spikes
 -Power Whip/Night Shade
 -Recover
+
+Sprucifix @ Mental Herb/Colbur Berry
+Ability: Regenerator
+EVs: 252 HP/252 Def/4 SpD
+Relaxed Nature
+Ivs: 0 Spe
+-Trick Room
+-Healing Wish/Recover/Destiny Bond
+-Power Whip/Night Shade
+-Spikes/Recover/Destiny Bond
 
 Sprucifix @ Choice Band
 Ability: Wonder Guard
@@ -2995,7 +3014,7 @@ Adamant Nature
 -Toxic/Spikes
 
 Sprucifix @ Assault Vest
-Ability: Wonder Guard
+Ability: Regenerator
 EVs: 252 HP/4 Def/252 SpD
 Careful Nature
 -Power Whip
@@ -3083,6 +3102,25 @@ Calm Nature
 -Protect
 -Encore/Heal Bell/Thunder Wave/Defog
 -Boomburst
+
+Nomaestro @ Leftovers
+Ability: Soundproof
+EVs: 252 HP/4 Def/252 SpD
+Careful Nature
+-Wish
+-Protect
+-Encore/Heal Bell/Thunder Wave/Defog
+-Pixie Pummel
+
+Nomaestro @ Leftovers  
+Ability: Soundproof  
+EVs: 248 HP/8 Def/252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+-Block  
+-Perish Song  
+-Protect  
+-Wish
 
 Nomaestro @ Choice Band
 Ability: Pixilate
@@ -5843,9 +5881,46 @@ Ability: Analytic/Frisk
 EVs: 252 HP/252 Def/4 SpD
 Bold Nature
 -Softboiled
+-Clear Smog/Foul Play/Giga Drain
+-Sleep Powder/Leech Seed/Teleport/Aromatherapy
+-Toxic/Leech Seed/Teleport/Aromatherapy
+
+Bulbapedo @ Leftovers
+Ability: Analytic/Frisk
+EVs: 252 HP/4 Def/252 SpD
+Calm Nature
+-Softboiled
+-Clear Smog/Foul Play/Giga Drain
+-Sleep Powder/Leech Seed/Teleport/Aromatherapy
+-Toxic/Leech Seed/Teleport/Aromatherapy
+
+Bulbapedo @ Mental Herb
+Ability: Frisk
+EVs: 252 HP/252 Def/4 SpD
+Sassy Nature
+-Softboiled/Sleep Powder
+-Giga Drain/Clear Smog/Foul Play
+-Trick Room
+-Teleport
+
+Bulbapedo @ Leftovers
+Ability: Analytic/Frisk
+EVs: 252 HP/252 Def/4 SpD
+Bold Nature
+-Softboiled
 -Clear Smog/Foul Play
 -Sleep Powder/Toxic
 -Leech Seed/Teleport/Aromatherapy
+
+Bulbapedo @ Black Sludge/Life Orb 
+Ability: Analytic  
+EVs: 4 HP/128 Def/252 SpA/124 SpD  
+Quiet Nature  
+IVs: 0 Atk/0 Spe  
+-Soft-Boiled  
+-Nasty Plot  
+-Giga Drain  
+-Earth Power/Sludge Bomb
 
 Wantnaut @ Choice Band
 Ability: Heavy Metal
@@ -6062,6 +6137,15 @@ Careful Nature
 -Roost  
 -Heavy Slam  
 -Brave Bird/Heat Crash
+
+Avianjoin @ Leftovers  
+Ability: Heatproof 
+EVs: 252 HP/4 Def/252 SpD  
+Careful Nature  
+-Bulk Up  
+-Roost  
+-Heavy Slam/Brave Bird/Heat Crash
+-Substitute/Brave Bird/Heat Crash
 
 Avianjoin @ Flame Orb
 Ability: Flare Heal
@@ -6733,13 +6817,13 @@ Adamant Nature
 -Shadow Sneak
 -Close Combat
 
-Sesquatch @ Leftovers
+Sesquatch @ Life Orb
 Ability: Suddenly
 EVs: 252 Atk/4 SpD/252 Spe
 Adamant Nature
 -Skull Bash
 -Shadow Force
--Shadow Sneak
+-Spook Out/Shadow Sneak
 -Close Combat
 
 Sesquatch @ Leftovers
@@ -6782,8 +6866,8 @@ Fireshitre @ Life Orb/Choice Specs
 Ability: Levitate
 EVs: 252 SpA/4 SpD/252 Spe
 Timid Nature
--Flamethrower
--Fire Blast
+-Flamethrower/Fire Blast
+-Psychic
 -Sludge Wave
 -Thunderbolt
 
@@ -6818,7 +6902,7 @@ Spookscare @ Leftovers
 Ability: Pressure
 EVs: 252 HP/252 Def/4 SpD
 Bold Nature
--Spikes/Stealth Rock/Heal Bell/Counter
+-Spikes/Stealth Rock/Heal Bell/Counter/Wish
 -Will-O-Wisp
 -Earth Power/Shadow Ball
 -Recover
@@ -6827,7 +6911,7 @@ Spookscare @ Leftovers
 Ability: Pressure
 EVs: 252 HP/4 Def/252 SpD
 Calm Nature
--Spikes/Stealth Rock/Heal Bell/Mirror Coat
+-Spikes/Stealth Rock/Heal Bell/Mirror Coat/Wish
 -Will-O-Wisp
 -Earth Power/Shadow Ball
 -Recover
