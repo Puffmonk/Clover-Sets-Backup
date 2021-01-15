@@ -2430,7 +2430,7 @@ Ability: Mega Launcher
 EVs: 252 HP/212 Def/44 Spe
 Bold Nature
 -Dragon Pulse
--Aura Sphere/Dark Pulse/Haze
+-Aura Sphere/Dark Pulse/Haze/Defog
 -Rest
 -Will-O-Wisp/Sleep Talk
 
@@ -2440,7 +2440,7 @@ EVs: 252 HP/212 Def/44 Spe
 Bold Nature
 -Draco Meteor
 -Focus Blast/Fire Blast/Flash Cannon/Zap Cannon
--Rest/Protect
+-Rest/Protect/Defog
 -Will-O-Wisp/Sleep Talk
 
 Cannonance @ Leftovers
