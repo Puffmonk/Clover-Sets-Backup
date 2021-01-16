@@ -3636,8 +3636,8 @@ EVs: 248 HP/8 Def/252 SpD
 Careful Nature
 -Bulk Up
 -Milk Drink
--Ice Shard
--Liquidation
+-Ice Shard/Aqua Jet
+-Liquidation/Icicle Crash/Avalanche
 
 Manatank @ Choice Band
 Ability: Pure Power
@@ -6378,7 +6378,7 @@ EVs: 252 HP/4 Def/252 SpD
 Careful Nature
 -Recover
 -Earthquake
--Icicle Crash
+-Icicle Crash/Avalanche
 -Bulk Up
 
 Hornititan @ Leftovers
@@ -6388,7 +6388,7 @@ Impish Nature
 -Recover
 -Rapid Spin
 -Earthquake/Glare/Toxic/Lovely Kiss
--Icicle Crash/Glare/Toxic/Lovely Kiss
+-Icicle Crash/Avalanche/Glare/Toxic/Lovely Kiss
 
 Hornititan @ Weakness Policy
 Ability: Refrigerate/Filter
