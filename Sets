@@ -2549,7 +2549,7 @@ Jolly Nature
 -Acrobatics
 -Earthquake
 -Dragon Claw/Outrage/Extreme Speed
--Dragon Dance/Swords Dance
+-Dragon Dance
 
 Notridley @ Choice Band
 Ability: Pressure
@@ -2560,14 +2560,14 @@ Jolly Nature
 -Dragon Claw/Outrage
 -U-Turn
 
-Notridley @ Life Orb
+Notridley @ Choice Specs
 Ability: Pressure
-EVs: 252 Atk/4 SpA/252 Spe
-Naive Nature
--Dragon Ascent
--Earthquake
+EVs: 4 Def/252 SpA/252 Spe
+Timid Nature
+-Draco Meteor
+-Oblivion Wing
 -Fire Blast
--U-Turn/Extreme Speed/Draco Meteor
+-Thunderbolt/U-Turn
 
 Batterex @ Life Orb/Lum Berry/Fighting Gem
 Ability: Iron Fist/Regenerator (use regen if not using any punch moves)
