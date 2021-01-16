@@ -4007,9 +4007,9 @@ Ability: Levitate
 EVs: 252 HP/4 Def/252 Spe
 Timid Nature
 -Substitute
--Disable
--Toxic/Nasty Plot
--Flash Cannon/Thunderbolt
+-Disable/Nasty Plot
+-Toxic/Nasty Plot/Flash Cannon
+-Discharge/Flash Cannon
 
 Galavire @ Life Orb
 Ability: Levitate
