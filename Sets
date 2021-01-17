@@ -780,7 +780,7 @@ Ability: Shed Skin/Levitate/Thick Fat
 EVs: 252 HP/252 Def/4 SpD
 Bold Nature
 -Recover
--Psychic/Hyper Voice
+-Psychic/Hyper Voice/Night Shade
 -Haze/Heal Bell/Teleport
 -Will-O-Wisp/Heal Bell/Teleport
 
@@ -1561,7 +1561,7 @@ EVs: 252 Atk/4 Def/252 Spe
 Adamant Nature
 -Swords Dance
 -Ow The Edge
--Thousand Folds
+-Thousand Folds/Earthquake
 -Sucker Punch
 
 Armowite @ Choice Band
@@ -2452,6 +2452,15 @@ Timid Nature
 -Substitute
 -Draco Meteor/Flash Cannon
 
+Cannonance @ Leftovers  
+Ability: Mega Launcher  
+EVs: 252 SpA/4 SpD/252 Spe  
+Modest Nature   
+-Taunt  
+-Dragon Pulse  
+-Flash Cannon  
+-Dark Pulse
+
 Evacycle @ Leftovers
 Ability: Flame Body
 EVs: 252 HP/ 4 Def/ 252 SpD
@@ -3246,7 +3255,7 @@ Ability: Sheer Force
 EVs: 252 Atk/4 Def/252 Spe
 Adamant Nature
 -Double Iron Bash
--Force Palm/Superpower
+-Force Palm/Superpower/Hammer Arm
 -Fire Punch/Ice Punch/Thunder Punch/Mach Punch/Bullet Punch
 -Swords Dance/Mach Punch/Bullet Punch
 
@@ -4038,13 +4047,22 @@ Impish Nature
 -Punch Out/Drain Punch
 -Disable/Toxic/Roar
 
+Galaviste @ Assault Vest
+Ability: Intimidate
+EVs: 248 HP/252 Atk/8 SpD
+Adamant Nature
+-Double Iron Bash
+-Drain Punch
+-Plasma Fists
+-Punch Out
+
 Galaviste @ Choice Band
 Ability: Intimidate
 EVs: 252 Atk/4 Def/252 Spe
 Adamant/Jolly Nature
 -Double Iron Bash
 -Hammer Arm
--Volt Tackle
+-Volt Tackle/Plasma Fists
 -Punch Out
 
 Galaviste @ Leftovers
@@ -4062,7 +4080,7 @@ EVs: 252 HP/4 Def/252 SpD
 Calm Nature
 -Softboiled
 -Spore
--Scald
+-Scald/Seed Flare
 -Sleazy Spores
 
 Florigrace @ Focus Sash
@@ -5016,9 +5034,9 @@ Adamant Nature
 
 Wheygle @ Sitrus Berry
 Ability: Unburden
-EVs: 4 HP/252 Atk/252 Spe or 252 HP/252 Atk/4 Spe
+EVs: 4 HP/252 Atk/252 Spe
 Jolly/Adamant Nature
--Mach Punch/Earthquake
+-Mach Punch/Sucker Punch/Knock Off
 -Drain Punch/Flying Press
 -Acrobatics
 -Belly Drum
@@ -5051,13 +5069,14 @@ Calm/Bold Nature
 -Toxic/Teleport
 
 Gangnome @ Leftovers
-Ability: Natural Cure
+Ability: Soundproof
 EVs: 252 HP/4 Def/252 SpD
-Calm Nature
+Sassy Nature
+IVs: 0 Spe
 -Trick Room
--Lunar Dance/Teleport
+-Lunar Dance
 -Moonblast
--Rest
+-Mop
 
 Gangnome @ Leftovers
 Ability: Concert
@@ -5065,7 +5084,7 @@ EVs: 252 HP/4 Def/252 SpD
 Calm Nature
 -Protect
 -Substitute
--Moonblast
+-Moonblast/Seismic Toss
 -Toxic
 
 Pyongnome @ Choice Scarf
@@ -5607,10 +5626,20 @@ Jerkle @ Choice Specs
 Ability: Psychic Surge
 EVs: 252 SpA/4 SpD/252 Spe
 Modest/Timid Nature
--Psychic
+-Photon Geyser
 -Thunderbolt
 -Sludge Bomb
 -Prismatic Laser
+
+Jerkle @ Terrain Extender  
+Ability: Psychic Surge  
+EVs: 252 HP/4 SpD/252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+-Photon Geyser  
+-Stealth Rock  
+-Moonlight  
+-Encore
 
 Faptime @ Life Orb/Rock Gem
 Ability: Speed Boost
@@ -5620,6 +5649,16 @@ Jolly Nature
 -Zen Headbutt/Earthquake
 -Swords Dance
 -Protect/Earthquake
+
+Faptime @ Focus Sash  
+Ability: Speed Boost  
+EVs: 252 Atk/252 Spe  
+Hasty Nature  
+IVs: 0 HP/0 Def/0 SpD  
+-Stealth Rock  
+-Endeavor  
+-Taunt  
+-Photon Geyser
 
 Shiriman @ Leftovers
 Ability: Intimidate
@@ -5986,13 +6025,13 @@ Careful Nature
 -Recycle
 
 Cansumor @ Black Sludge
-Ability: Shed Skin
+Ability: Shed Skin/Corrosion
 EVs: 252 HP/4 Def/252 SpD
 Careful Nature
 -Recover
 -Bulk Up
 -Poison Jab/Gunk Shot
--Crabhammer/Crunch
+-Crabhammer/Crunch/Toxic
 
 Cansumor @ Black Sludge
 Ability: Corrosion
@@ -6246,13 +6285,22 @@ Jolly Nature
 -Stone Edge
 -Ice Punch
 
+Cthullord @ Life Orb
+Ability: Swift Swim
+EVs: 252 SpA/4 SpD/252 Spe
+Timid Nature
+-Origin Pulse
+-Ice Beam
+-Earth Power
+-Calm Mind
+
 Cthullord @ Assault Vest
 Ability: Regenerator
 EVs: 252 HP/4 Def/252 SpD
 Sassy Nature
--Seismic Toss
+-Seismic Toss/Night Shade
 -Stone Edge
--Scald
+-Scald/Origin Pulse
 -Knock Off
 
 Cthullord @ Leftovers
@@ -6388,7 +6436,7 @@ Impish Nature
 -Recover
 -Rapid Spin
 -Earthquake/Glare/Toxic/Lovely Kiss
--Icicle Crash/Avalanche/Glare/Toxic/Lovely Kiss
+-Icicle Crash/Ice Hammer/Avalanche/Glare/Toxic/Lovely Kiss
 
 Hornititan @ Weakness Policy
 Ability: Refrigerate/Filter
@@ -6941,7 +6989,7 @@ Jolly Nature
 -Bonemerang/Earthquake
 -Shadow Bone
 -Stealth Rock
--Swords Dance
+-Swords Dance/Icicle Crash
 
 Goryannus @ Life Orb/Lum Berry
 Ability: Sheer Force
