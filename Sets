@@ -3858,16 +3858,16 @@ Jolly Nature
 -Iron Tail
 
 Snugware @ Leftovers
-Ability: Filter/Thick Fat
+Ability: Thick Fat
 EVs: 252 HP/252 Def/4 SpD
 Impish Nature
 -Recover
 -Plasma Fists
--Toxic/Thunder Wave/Heal Bell
+-Toxic/Nuzzle/Heal Bell
 -U-Turn
 
 Snugware @ Leftovers
-Ability: Filter/Thick Fat
+Ability: Thick Fat
 EVs: 252 HP/4 Def/252 SpD
 Careful Nature
 -Recover
@@ -3913,7 +3913,7 @@ Timid Nature
 -Hidden Power [Ice]/Sludge Bomb/Giga Drain/Focus Blast
 
 Fleespecs @ Life Orb/Focus Sash
-Ability: Download/Surge Surfer
+Ability: Download
 EVs: 4 Def/252 SpA/252 Spe
 Timid Nature
 -Nasty Plot
@@ -4788,15 +4788,6 @@ Adamant Nature
 -Great Rage
 -Rock Slide/Earthquake
 
-Saudoge @ Salac Berry
-Ability: Blaze
-EVs: 12 HP/244 SpA/252 Spe 
-Timid Nature 
--Substitute
--Flamethrower/Fire Blast 
--Nasty Plot
--Aeroblast
-
 Saudoge @ Focus Sash/Life Orb
 Ability: Skill Link
 EVs: 252 SpA/4 SpD/252 Spe 
@@ -4804,25 +4795,34 @@ Timid Nature
 -Nasty Plot
 -Wow Wiener
 -Aeroblast
--Earth Power/Psychic/Grass Knot
+-Earth Power/Psychic/Thunderbolt
 
-Saudoge @ Choice Scarf
+Saudoge @ Focus Sash/Life Orb
+Ability: Skill Link
+EVs: 252 SpA/4 SpD/252 Spe 
+Timid Nature 
+-Wow Wiener
+-Aeroblast
+-Earth Power/Psychic/Thunderbolt/Focus Blast
+-Glare/Psychic/Thunderbolt/Focus Blast
+
+Saudoge @ Choice Scarf/Choice Specs
 Ability: Skill Link
 EVs: 252 SpA/4 SpD/252 Spe 
 Timid Nature 
 -Wow Wiener
 -Aeroblast
 -Earth Power
--U-Turn/Grass Knot
+-U-Turn/Thunderbolt/Focus Blast
 
-Davyjaws @ Lum Berry/Life Orb
+Davyjaws @ Lum Berry/Life Orb/Water Gem
 Ability: Download/Mold Breaker
 EVs: 252 Atk/4 Def/252 Spe
 Adamant/Jolly Nature
 -Close Combat
 -Aqua Jet/Earthquake
 -Swords Dance
--Plunder/Earthquake
+-Plunder
 
 Davyjaws @ Choice Band
 Ability: Download
@@ -4831,6 +4831,15 @@ Adamant/Jolly Nature
 -Close Combat
 -Aqua Jet
 -Icicle Crash/Earthquake/Knock Off
+-Plunder
+
+Davyjaws @ Choice Scarf
+Ability: Download
+EVs: 252 Atk/4 Def/252 Spe
+Jolly Nature
+-Close Combat
+-Knock Off/Earthquake
+-Icicle Crash/Earthquake
 -Plunder
 
 Davyjaws @ Salac Berry
@@ -4855,9 +4864,9 @@ Bunnorgy @ Choice Scarf
 Ability: Huge Power
 EVs: 252 Atk/4 Def/252 Spe
 Jolly Nature
--Return/Double-Edge
+-Double-Edge
 -Knock Off/Switcheroo
--Earthquake
+-Earthquake/Switcheroo
 -High Jump Kick
 
 Bunnorgy @ Life Orb/Silk Scarf
@@ -4865,9 +4874,9 @@ Ability: Huge Power
 EVs: 252 Atk/4 Def/252 Spe
 Adamant/Jolly Nature
 -Fake Out
--Double-Edge/Return
--Earthquake/High Jump Kick
 -Quick Attack
+-Double-Edge/Return
+-Earthquake/High Jump Kick/Knock Off
 
 Bunnorgy @ Leftovers
 Ability: Speed Boost
