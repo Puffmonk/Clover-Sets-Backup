@@ -381,7 +381,7 @@ Impish/Careful Nature
 -Softboiled
 -Encore/U-Turn/Defog
 -Toxic/U-Turn/Defog
--Brave Bird/Foul Play
+-Brave Bird
 
 Birdhouse @ Mental Herb
 Ability: Wooden Guard
@@ -404,7 +404,7 @@ EVs: 252 HP/4 Atk/252 Spe
 
 Lanshil @ Shell Bell
 Ability: Sturdy
-Level: 1 (might be awkward depending on how it's set up)
+Level: 1
 Adamant Nature
 IVs: 0 HP
 -Endeavor
@@ -429,15 +429,6 @@ Jolly/Adamant Nature
 -Meteor Mash/Iron Head
 -Head Smash
 -Earthquake
-
-Memenace @ Life Orb
-Ability: Sheer Force
-Modest Nature
-EVs: 252 SpA/4 SpD/252 Spe
--Nasty Plot
--Fire Blast
--Ice Beam
--Thunderbolt
 
 Memenace @ Choice Band
 Ability: Hustle
@@ -480,7 +471,7 @@ Ability: Stakeout
 EVs: 252 Atk/4 Def/252 Spe
 Jolly/Adamant Nature
 -Knock Off
--Leaf Blade
+-Petal Blizzard
 -Earthquake
 -Gunk Shot
 
@@ -489,7 +480,7 @@ Ability: Guts
 EVs: 252 Atk/4 Def/252 Spe
 Jolly/Adamant Nature
 -Knock Off
--Leaf Blade
+-Petal Blizzard
 -Earthquake
 -Toke
 
@@ -499,7 +490,7 @@ EVs: 252 SpA/4 SpD/252 Spe
 Timid/Modest Nature
 -Dark Pulse
 -Energy Ball/Giga Drain
--Surf/Sludge Bomb/Hidden Power [Fire]
+-Surf/Sludge Bomb/Earth Power
 -Nasty Plot
 
 Piguson @ Life Orb/Flame Orb
@@ -518,14 +509,14 @@ Adamant Nature
 -Mach Punch
 -Return/Double-Edge
 -Close Combat
--Toxic/Iron Tail/Earthquake/Glare/Riot Shield/Knock Off
+-Knock Off/Gunk Shot
 
 Piguson @ Leftovers
 Ability: Scrappy
 EVs: 252 HP/252 Def/4 Spe
 Impish Nature
 -Slack Off
--Body Slam
+-Body Slam/Glare
 -Close Combat/Riot Shield
 -Rapid Spin
 
@@ -546,15 +537,6 @@ Jolly/Adamant Nature
 -Mach Punch
 -U-Turn
 -Ice Punch/Thunder Punch/Fire Punch/Earthquake/Rapid Spin/Knock Off
-
-Tripecs @ Life Orb/Expert Belt/Black Belt
-Ability: Iron Fist
-EVs: 252 Atk/4 Def/252 Spe
-Jolly/Adamant Nature
--Drain Punch
--Mach Punch
--Thunder Punch/Ice Punch/Fire Punch/Earthquake/Knock Off
--Swords Dance
 
 Semrust @ Eviolite
 Ability: Immunity
@@ -596,11 +578,11 @@ Quiet Nature
 Finasoven @ Leftovers/Shuca Berry
 Ability: Solid Rock
 EVs: 252 HP/252 Def/4 SpD
-Relaxed Nature
+Bold Nature
 -Morning Sun
--Sacred Fire/Lava Plume
--Toxic/Clear Smog/Roar/Burn Up
--Defog/Clear Smog/Roar/Burn Up
+-Lava Plume
+-Clear Smog/Roar/Haze
+-Defog/Stealth Rock
 
 Monstrap @ Life Orb/Lum Berry
 Ability: Intimidate/Defiant
@@ -627,7 +609,7 @@ IVs: 0 Spe
 Brave Nature
 -Trick Room
 -Knock Off
--Waterfall/Aqua Tail
+-Liquidation
 -Stealth Rock/Earthquake
 
 Monstrap @ Choice Band
@@ -636,7 +618,7 @@ EVs: 252 HP/252 Atk/4 Def or 252 Atk/4 Def/252 Spe
 Adamant/Jolly Nature
 -U-Turn
 -Aqua Jet
--Waterfall/Fire Fang/Earthquake
+-Liquidation/Earthquake
 -Knock Off/Crunch
 
 Monstrap @ Assault Vest
@@ -644,9 +626,9 @@ Ability: Intimidate
 EVs: 252 HP/252 Atk/4 Def
 Adamant Nature
 -U-Turn
--Aqua Jet/Foul Play
--Waterfall/Fire Fang/Earthquake/Foul Play
--Knock Off/Crunch/Foul Play
+-Aqua Jet
+-Waterfall/Earthquake/Dragon Tail
+-Knock Off
 
 Monstrap @ Leftovers/Rocky Helmet
 Ability: Intimidate
@@ -655,7 +637,7 @@ Relaxed Nature
 -U-Turn
 -Scald/Toxic/Haze
 -Stealth Rock/Toxic/Haze
--Knock Off/Foul Play
+-Knock Off
 
 Monstrap @ Leftovers
 Ability: Intimidate
@@ -704,7 +686,7 @@ Timid Nature
 -Moonblast
 
 Fairileon @ Leftovers
-Ability: Shield Dust
+Ability: Shield Dust/Regenerator
 EVs: 4 Def/252 SpA/252 Spe
 Timid Nature
 -Quiver Dance
@@ -727,8 +709,8 @@ EVs: 252 Atk/4 Def/252 Spe
 Jolly Nature
 -Earthquake
 -Knock Off
--Zen Headbutt/Double Edge
--Stone Edge/Double Edge
+-Zen Headbutt/Double Edge/Strength
+-Rock Climb
 
 Knokedge @ Leftovers/Salac Berry
 Ability: Arena Trap
@@ -744,7 +726,7 @@ Ability: Arena Trap/Tough Claws
 EVs: 252 Atk/4 Def/252 Spe
 Jolly Nature
 -Earthquake
--Stone Edge/Rock Slide
+-Stone Edge/Rock Climb
 -Knock Off
 -Zen Headbutt
 
@@ -782,7 +764,7 @@ Bold Nature
 -Calm Mind
 -Recover
 -Psychic
--Hyper Voice/Shadow Ball/Hidden Power [Fire]
+-Hyper Voice/Shadow Ball/Earth Power
 
 Elephas @ Leftovers
 Ability: Shed Skin/Levitate/Thick Fat
@@ -846,7 +828,7 @@ EVs: 252 SpA/4 SpD/252 Spe
 Timid Nature
 -Hydro Pump
 -Lovely Kiss
--Scald
+-Surf
 -Water Spout
 
 Caroline @ Bible
@@ -936,17 +918,17 @@ EVs: 252 Atk/4 Def/252 Spe
 Jolly/Adamant Nature
 -Power Whip
 -Close Combat
--Earthquake/Fire Punch
+-Earthquake/Fire Punch/Rock Slide
 -Mach Punch
 
 Sjwhale @ Leftovers
 Ability: Thick Fat/Synchronize
 EVs: 252 HP/252 Def/4 SpD or 252 HP/4 Def/252 SpD
 Bold/Calm Nature
--Steam Eruption/Foul Play
+-Steam Eruption/Scald
 -Toxic/Haze
 -Slack Off
--Taunt/Foul Play
+-Teleport
 
 Sjwhale @ Iapapa Berry/Salac Berry
 Ability: Gluttony
@@ -961,28 +943,28 @@ Mozzamazel @ Leftovers
 Ability: Water Absorb
 EVs: 252 HP/252 Def/4 SpD
 Bold Nature
--Moonblast
--Flamethrower
--Toxic/Lovely Kiss/Knock Off/Will-O-Wisp
+-Moonblast/Flamethrower
+-Lovely Kiss/Will-O-Wisp/Toxic
+-Knock Off/Flamethrower
 -Recover
 
 Mozzamazel @ Leftovers
 Ability: Water Absorb
 EVs: 252 HP/4 Def/252 SpD
 Calm Nature
--Moonblast
--Flamethrower
--Toxic/Lovely Kiss/Knock Off/Will-O-Wisp
+-Moonblast/Flamethrower
+-Lovely Kiss/Will-O-Wisp/Toxic
+-Knock Off/Flamethrower
 -Recover
 
 Krokizon @ Leftovers
 Ability: Rock Head
-EVs: 252 HP/252 Atk/4 Def or 252 Atk/4 Def/252 Spe
-Adamant/Jolly Nature
+EVs: 252 Atk/4 Def/252 Spe
+Adamant Nature
 -Earthquake
 -Wood Hammer
 -Head Smash
--Fire Punch/Ice Punch/Thunder Punch/Horn Leech/Slack Off/Swords Dance/Stealth Rock
+-Horn Leech/Slack Off/Stealth Rock
 
 Krokizon @ Choice Band
 Ability: Rock Head
@@ -998,7 +980,7 @@ Ability: Thick Fat
 EVs: 252 HP/252 Atk/4 SpD
 Adamant Nature
 -Earthquake
--Rock Slide
+-Stone Edge/Smack Down
 -Knock Off
 -Horn Leech
 
@@ -1021,20 +1003,20 @@ Jolly/Adamant Nature
 -Shell Smash
 
 Haremit @ Leftovers
-Ability: Shell Armor/Serene Grace
+Ability: Serene Grace
 EVs: 252 HP/252 Def/4 SpD or 252 HP/4 Def/252 SpD
 Impish/Careful Nature
--Stealth Rock/Rock Slide
+-Stealth Rock
 -Rapid Spin
 -Shore Up
--Body Slam/Rock Slide
+-Body Slam
 
 Tankube @ Eviolite
 Ability: Ice Body/Swift Swim/Clear Body
 EVs: 252 HP/4 Def/252 SpD
 Calm Nature
 -Recover
--Ice Beam
+-Freeze Dry
 -Toxic
 -Haze
 
@@ -1044,8 +1026,8 @@ EVs: 252 SpA/4 SpD/252 Spe
 Timid Nature
 -Moonblast
 -Ice Beam
--Hydro Pump/Defog/Trick
--Energy Ball/Defog/Trick
+-Freeze Dry
+-Focus Blast/Trick
 
 Fabkube @ Life Orb
 Ability: Levitate
@@ -1053,32 +1035,23 @@ EVs: 252 SpA/4 SpD/252 Spe
 Timid Nature
 -Moonblast
 -Ice Beam
--Hydro Pump/Taunt/Defog
--Energy Ball/Taunt/Defog
+-Freeze Dry
+-Taunt
 
 Fabkube @ Leftovers
 Ability: Levitate
 EVs: 252 SpA/4 SpD/252 Spe
 Timid Nature
 -Moonblast
--Ice Beam
+-Ice Beam/Freeze Dry
 -Calm Mind
 -Taunt/Recover
 
 Smoxilon @ Focus Sash/Leftovers
 Ability: Regenerator
-EVs: 252 Atk/4 Def/252 Spe or 112 Atk/144 SpA/252 Spe
+EVs: 252 Atk/4 Def/252 Spe
 Jolly/Naive Nature
--Spikes/Toxic Spikes/Taunt/Ice Beam
--Spore
--Stealth Rock
--Brave Bird
-
-Smoxilon @ Focus Sash/Leftovers
-Ability: Regenerator
-EVs: 112 Atk/144 SpA/252 Spe
-Naive Nature
--Ice Beam
+-Spikes/Toxic Spikes/Sticky Web
 -Spore
 -Stealth Rock
 -Brave Bird
@@ -1152,8 +1125,8 @@ EVs: 252 Atk/4 Def/252 Spe
 Jolly Nature
 -Elbow Drop
 -Flying Press/Drain Punch
+-Knock Off
 -Parting Shot
--Final Gambit/Knock Off
 
 Urswine @ Bacon Strip
 Ability: Flash Fire/Thick Fat/Aroma Veil
@@ -1173,13 +1146,13 @@ Impish Nature
 -Fire Lash
 -Will-O-Wisp
 
-Mooshock @ Leftovers
+Mooshock @ Life Orb
 Ability: Sap Sipper
 EVs: 252 HP/252 Atk/4 SpA
 Brave Nature
 -Volt Tackle
--Iron Head/Rock Slide
--Flamethrower
+-Superpower
+-Fire Blast
 -Milk Drink/Quick Attack/Volt Switch
 
 Mooshock @ Leftovers/Shuca Berry
@@ -1207,7 +1180,7 @@ Bold Nature
 -Milk Drink
 -Toxic
 -Flamethrower/Lick Clean
--Thunderbolt/Volt Switch
+-Discharge/Volt Switch
 
 Pretzely @ Suede Shoes
 Ability: Ghost Note
@@ -1216,7 +1189,7 @@ Modest/Timid Nature
 -Nasty Plot
 -Power Gem
 -Boomburst
--Earth Power/Ice Beam
+-Focus Blast
 
 Pretzely @ Suede Shoes
 Ability: Ghost Note
@@ -1225,7 +1198,7 @@ Timid Nature
 -Stealth Rock
 -Destiny Bond
 -Boomburst
--Power Gem/Ice Beam
+-Focus Blast
 
 Pretzely @ Suede Shoes
 Ability: Soundproof
@@ -1263,7 +1236,6 @@ Timid/Modest Nature
 -Calm Mind
 -Psychic/Ice Beam/Moonblast
 -Shadow Ball/Ice Beam/Moonblast
-(Sp Def. EVs guarantee 0 SpA Semdemen can't break Dowster's Substitute after a Calm Mind)
 
 Mennopaws @ Leftovers
 Ability: Intimidate
@@ -1289,8 +1261,8 @@ EVs: 252 Atk/4 Def/252 Spe
 Adamant/Jolly Nature
 -Earthquake
 -Pixie Pummel
--Close Combat/Rock Slide
--Thunder Punch/Rock Slide
+-Close Combat/Stone Edge
+-Thunder Punch/Stone Edge
 
 Mennopaws @ Life Orb/Leftovers/Lum Berry
 Ability: Intimidate
@@ -1310,7 +1282,7 @@ Jolly Nature
 -Wish
 -Play Rough
 
-Mennopaws @ Leftovers [BP]
+Mennopaws @ Leftovers
 Ability: Moody
 EVs: 252 HP/4 Def/252 Spe
 Jolly Nature
@@ -1324,7 +1296,7 @@ Ability: Adaptability
 EVs: 252 SpA/4 SpD/252 Spe
 Timid Nature
 -Thunderbolt
--Grass Knot
+-Grass Knot/Calm Mind
 -Volt Switch
 -Ice Beam
 
@@ -1343,14 +1315,14 @@ EVs: 252 SpA/4 SpD/252 Spe
 Timid/Modest Nature
 -Flamethrower/Fire Blast
 -Boomburst
--Freeze Dry/Thunderbolt
+-Freeze Dry
 -Trick
 
 Pengas @ Leftovers
 Ability: Magic Guard
 EVs: 252 HP/4 Def/252 SpD
 Calm Nature
--Flamethrower
+-Lava Plume
 -Defog
 -Freeze Dry
 -Roost
@@ -1360,7 +1332,7 @@ Ability: Intimidate
 EVs: 252 HP/252 Def/4 SpD
 Bold Nature
 -Scald
--Haze
+-Haze/Teleport
 -Toxic
 -Pain Split
 
@@ -1370,7 +1342,7 @@ EVs: 252 HP/252 Def/4 SpD
 IVs: 0 Spe
 Relaxed Nature
 -Trick Room
--U-Turn
+-Teleport
 -Scald
 -Destiny Bond/Super Fang
 
@@ -1379,7 +1351,7 @@ Ability: Intimidate
 EVs: 252 HP/4 Def/252 SpD
 Careful Nature
 -Curse
--Waterfall/Aqua Tail
+-Liquidation
 -Rest
 -Sleep Talk
 
@@ -1406,9 +1378,9 @@ Ability: Vital Spirit
 EVs: 252 SpA/4 SpD/252 Spe
 Timid Nature
 -Nasty Plot
--Sludge Bomb
--Dark Pulse
--Aura Sphere/Giga Drain/Sleep Powder/Taunt
+-Sludge Wave
+-Dark Pulse/Night Daze
+-Aura Sphere/Giga Drain/Psychic/Sleep Powder/Taunt
 
 Florious @ Black Sludge
 Ability: Vital Spirit
@@ -1416,7 +1388,7 @@ EVs: 252 HP/4 SpD/252 Spe
 Timid Nature
 -Leech Seed
 -Sludge Bomb/Substitute
--Dark Pulse/Substitute
+-Dark Pulse/Night Daze/Substitute
 -Sleep Powder/Protect
 
 Florious @ Black Sludge
@@ -1425,7 +1397,7 @@ EVs: 252 HP/4 SpD/252 Spe
 Timid Nature
 -Substitute
 -Nasty Plot
--Dark Pulse
+-Dark Pulse/Night Daze
 -Sludge Bomb
 
 Somboludo @ Focus Sash
@@ -1453,7 +1425,7 @@ Jolly Nature
 -Swords Dance
 -Earthquake
 -Meteor Mash
--Rock Slide/Bullet Punch/Quick Sand
+-Rapid Spin/Stone Edge/Quick Sand
 
 Somboludo @ Leftovers/Smooth Rock
 Ability: Sand Stream/Comatose
@@ -1468,7 +1440,7 @@ Somboludo @ Choice Scarf
 Ability: Sand Stream/Comatose
 EVs: 252 Atk/4 Def/252 Spe
 Jolly Nature
--Rapid Spin/Mop
+-Rapid Spin
 -Earthquake
 -Meteor Mash
 -Rock Slide/Toxic
@@ -1478,9 +1450,9 @@ Ability: Intimidate
 EVs: 252 Atk/4 Def/252 Spe
 Jolly Nature
 -Swords Dance
--Crabhammer/Liquidation
--Power Whip/Seed Bomb
--Knock Off
+-Crabhammer
+-Power Whip
+-Ice Punch/Knock Off/Earthquake
 
 Marionettl @ Focus Sash
 Ability: Intimidate
@@ -1506,8 +1478,8 @@ EVs: 252 SpA/4 SpD/252 Spe
 Modest Nature
 -Hydro Pump/Surf
 -Lactose Shot
--Dazzling Gleam
--Ice Beam
+-Dazzling Gleam/Psychic
+-Ice Beam/Psychic
 
 Octai @ Pirate's Jug
 Ability: Regenerator
@@ -1515,8 +1487,8 @@ EVs: 252 SpA/4 SpD/252 Spe
 Modest Nature
 -Hydro Pump/Surf
 -Lactose Shot
--Dazzling Gleam
--Ice Beam
+-Dazzling Gleam/Psychic
+-Ice Beam/Psychic
 
 Octai @ Leftovers
 Ability: Regenerator/Misty Surge
@@ -1545,14 +1517,14 @@ Adamant Nature
 -Heat Crash
 -Extremespeed/Earthquake/Superpower
 
-Hyletrack @ Focus Sash
-Ability: Speed Boost
+Hyletrack @ Choice Band
+Ability: Moxie
 EVs: 252 Atk/4 Def/252 Spe
 Jolly Nature
--Stealth Rock
--Imprison
--Toxic
--Heavy Slam/Heat Crash
+-Heavy Slam
+-Heat Crash/Flare Blitz
+-Extremespeed
+-Earthquake/Superpower
 
 Armowite @ Life Orb
 Ability: Blademaster
@@ -1588,8 +1560,8 @@ EVs: 252 HP/4 Def/252 SpD
 Careful Nature
 -Strength Sap
 -Knock Off
--Taunt/Encore/Topsy Turvy
--Teleport/Seismic Toss
+-Defog/Encore
+-Teleport
 
 Armowite @ Leftovers
 Ability: Oblivious
@@ -1614,7 +1586,7 @@ Ability: Iron Fist/Swift Swim/Shell Armor
 EVs: 252 Atk/4 Def/252 Spe
 Jolly/Adamant Nature
 -Shell Smash
--Mach Punch/Aqua Jet/Ice Punch
+-Mach Punch/Aqua Jet/Ice Punch/Earthquake
 -Crabhammer
 -Close Combat
 
@@ -1626,24 +1598,6 @@ Naive/Naughty Nature
 -Ice Beam
 -Crabhammer
 -Close Combat
-
-Mabster @ Life Orb
-Ability: Iron Fist
-EVs: 252 Atk/4 Def/252 Spe
-Jolly/Adamant Nature
--Swords Dance
--Mach Punch
--Close Combat
--Crabhammer
-
-Mabster @ Life Orb
-Ability: Swift Swim
-EVs: 252 Atk/4 Def/252 Spe
-Jolly/Adamant Nature
--Swords Dance
--Aqua Jet/Earthquake/Mach Punch/Ice Punch
--Close Combat
--Crabhammer
 
 Mabster @ Choice Specs
 Ability: Swift Swim
@@ -1682,6 +1636,15 @@ Jolly/Adamant Nature
 -Toxiravage
 -Shitpost/Iron Tail
 
+Toxiraptor @ Choice Band
+Ability: Poison Point/Merciless/Corrosion
+EVs: 252 Atk/4 Def/252 Spe
+Jolly/Adamant Nature
+-Toxiravage
+-Gunk Shot
+-Stone Edge
+-Shitpost/Stomping Tantrum/Toxic
+
 Toxiraptor @ Life Orb
 Ability: Poison Point/Merciless/Corrosion
 EVs: 252 Atk/4 Def/252 Spe
@@ -1701,13 +1664,13 @@ Jolly Nature
 -Fire Fang/Overbite
 
 Huntabre @ Choice Band/Choice Scarf
-Ability: Tough Claws (stronger normal STAB weaker everything else)
+Ability: Tough Claws
 EVs: 252 Atk/4 Def/252 Spe
 Jolly Nature
 -Rock Climb
 -Return/Double-Edge
--Psychic Fangs
--Overbite
+-Psychic Fangs/Earthquake
+-Overbite/Knock Off/Earthquake
 
 Huntabre @ Life Orb/Normal Gem
 Ability: Tough Claws
@@ -1797,7 +1760,7 @@ Timid Nature
 -Thunderbolt
 -Check Em
 -Ice Beam
--Volt Switch
+-Volt Switch/Water Shuriken
 
 Miasmer @ Eviolite
 Ability: Levitate
@@ -1806,7 +1769,7 @@ Bold Nature
 -Recover
 -Will-O-Wisp
 -Clear Smog/Sludge Bomb
--Spikes/Toxic Spikes
+-Spikes/Toxic Spikes/Defog
 
 Miasmortor @ Black Sludge
 Ability: Prankster
@@ -1885,8 +1848,8 @@ EVs: 252 HP/252 Def/4 SpD
 Ability: Cursed Body/Cute Charm
 Bold Nature
 -Softboiled
--Stealth Rock/Heal Bell
--Will-O-Wisp/Toxic/Thunder Wave
+-Heal Bell/Teleport
+-Will-O-Wisp
 -Night Shade/Seismic Toss
 
 Chancer @ Eviolite
@@ -1940,7 +1903,7 @@ EVs: 252 SpA/4 SpD/252 Spe
 Timid Nature
 -Blizzard
 -Air Slash/Hurricane
--Shadow Ball/Psychic
+-Heat Wave/Psychic
 -U-Turn
 
 Caparagon @ Eviolite
@@ -1998,7 +1961,7 @@ Jolly Nature
 -Swords Dance
 
 Ogrelord @ Life Orb/Lum Berry
-Ability: Victory Star/Sturdy
+Ability: Mold Breaker
 EVs: 252 Atk/4 Def/252 Spe
 Jolly/Adamant Nature
 -Swords Dance
@@ -2033,7 +1996,7 @@ Timid/Modest Nature
 -Trick
 -Baddy Bad
 -Focus Blast
--Ice Beam
+-Earth Power
 
 Chantruth @ Leftovers
 Ability: Magnet Pull
@@ -2096,7 +2059,7 @@ Timid/Modest Nature
 -Moonblast
 -Air Slash
 -Trick
--Lactose Shot/Hidden Power [Fire]/Defog
+-Focus Blast/Defog
 
 Geigh @ Life Orb/Leftovers
 Ability: Serene Grace/Magic Bounce
@@ -2349,7 +2312,7 @@ Ability: Blademaster
 EVs: 252 Atk/4 Def/252 Spe
 Adamant Nature
 -Ow The Edge
--Gunk Shot
+-Gunk Shot/Cross Poison
 -Sacred Sword
 -Sucker Punch
 
@@ -2365,11 +2328,11 @@ Naive/Hasty Nature
 Upchucken @ Choice Scarf
 Ability: Drought/Innards Out
 EVs: 252 Atk/4 Def/252 Spe
-Naive/Hasty/Jolly Nature
+Jolly Nature
 -Brave Bird
 -Return/Double-Edge
--Flamethrower/Fire Blast/Foul Play/Gunk Shot
--Aeroblast/Defog/U-Turn
+-Flare Blitz/Shitpost
+-U-Turn/Shitpost
 
 Upchucken @ Lum Berry/Life Orb
 Ability: Drought
@@ -2378,7 +2341,7 @@ Jolly Nature
 -Brave Bird
 -Double-Edge/Return
 -Flare Blitz/Roost
--Swords Dance/Roost
+-Bulk Up/Roost
 
 Upchucken @ Heat Rock
 Ability: Drought
@@ -2395,7 +2358,7 @@ EVs: 252 HP/4 Def/252 Spe
 Jolly/Timid Nature
 -Brave Bird/Aeroblast
 -Roost
--U-Turn
+-U-Turn/Fire Blast
 -Defog
 
 Upchucken @ Choice Specs
@@ -2468,7 +2431,7 @@ Modest Nature
 -Taunt  
 -Dragon Pulse  
 -Flash Cannon  
--Dark Pulse
+-Dark Pulse/Aura Sphere
 
 Evacycle @ Leftovers
 Ability: Flame Body
@@ -2479,23 +2442,14 @@ Careful Nature
 -Iron Head/Meteor Mash
 -Zen Headbutt/Flare Blitz
 
-Evacycle @ Leftovers
-Ability: Flame Body
-EVs: 252 HP/ 4 Def/ 252 SpD
-Bold Nature
--Cosmic Power
--Rest
--Flash Cannon/Thunderbolt/Fire Blast
--Stored Power
-
 Evacycle @ Weakness Policy
 Ability: Flame Body/Unburden
 EVs: 12 HP/144 Def/252 SpA/100 Spe
 Modest Nature
--Thunderbolt/Fire Blast
 -Shift Gear
--Flash Cannon/Fire Blast
 -Stored Power
+-Thunderbolt/Fire Blast/Focus Blast
+-Flash Cannon/Fire Blast/Focus Blast
 
 Foryu @ Life Orb/Ground Gem/Fighting Gem
 Ability: Big Guy
@@ -2520,27 +2474,27 @@ Ability: Magnet Pull/Big Guy
 EVs: 252 Atk/4 Def/252 Spe
 Jolly/Adamant Nature
 -Meteor Mash/Iron Head
--For You/Close Combat
+-For You
 -Earthquake
--Knock Off/Rock Slide
+-Knock Off
 
 Scytill @ Leftovers
 Ability: Levitate
-EVs: 252 HP/252 Def/4 Spe or 252 HP/196 Def/60 Spe (outspeeds base 110)
+EVs: 252 HP/252 Def/4 Spe or 252 HP/196 Def/60 Spe
 Impish Nature
 -Will-O-Wisp
 -Roost
 -Strato Blade/Iron Head/Shadow Claw
--Iron Head/Rapid Spin/Shadow Claw/Defog
+-Iron Head/Shadow Claw/Defog
 
 Scytill @ Leftovers
 Ability: Levitate
-EVs: 252 HP/160 Def/96 Spe (outspeeds base 130)
+EVs: 252 HP/160 Def/96 Spe)
 Jolly Nature
 -Will-O-Wisp
 -Roost
 -Strato Blade/Iron Head/Shadow Claw
--Iron Head/Rapid Spin/Shadow Claw/Defog
+-Iron Head/Shadow Claw/Defog
 
 Scytill @ Life Orb/Lum Berry
 Ability: Levitate
@@ -2588,12 +2542,12 @@ Timid Nature
 -Thunderbolt/U-Turn
 
 Batterex @ Life Orb/Lum Berry/Fighting Gem
-Ability: Iron Fist/Regenerator (use regen if not using any punch moves)
+Ability: Iron Fist/Regenerator
 EVs: 252 Atk/4 Def/252 Spe
 Jolly Nature
 -Dragon Dance
 -Drain Punch/Close Combat
--Dragon Hammer/Outrage//Dragon Fist/Ice Punch/Fire Punch/Thunder Punch/Earthquake
+-Outrage/Dragon Fist/Ice Punch/Fire Punch/Thunder Punch/Earthquake
 -Meteor Mash/Ice Punch/Fire Punch/Thunder Punch/Earthquake
 
 Batterex @ Choice Band/Choice Scarf
@@ -2601,7 +2555,7 @@ Ability: Iron Fist/Regenerator
 EVs: 252 Atk/4 Def/252 Spe
 Jolly/Adamant Nature
 -Close Combat
--Outrage/Dragon Hammer/Dragon Fist
+-Outrage/Dragon Fist
 -Ice Punch/Mach Punch/Meteor Mash/Earthquake
 -Punch Out
 
@@ -2695,33 +2649,27 @@ Jolly Nature
 -Strato Blade
 -Ow the Edge
 -Volt Tackle/Knock Off/Sucker Punch/Sacred Sword
--Waterfall//Knock Off/Sucker Punch/Sacred Sword
-
-Deathorus @ Life Orb
-Ability: Tough Claws
-EVs: 252 Atk/4 SpA/252 Spe
--Growth
--Strato Blade
--Dark Pulse
--Thunderbolt
+-U-Turn
 
 Deathorus @ Life Orb
 Ability: Shower Power
 EVs: 252 SpA/4 SpD/252 Spe
+Timid Nature
 -Nasty Plot
 -Hurricane
--Dark Pulse/Surf
+-Dark Pulse/Surf/Weather Ball
 -Thunder
 
 Deathorus @ Choice Specs
 Ability: Shower Power
 EVs: 252 SpA/4 SpD/252 Spe
+Timid Nature
 -Hurricane
 -Dark Pulse
 -Thunder
--Surf
+-Surf/Weather Ball
 
-Deathorus @ Leftovers [BP]
+Deathorus @ Leftovers
 Ability: Tough Claws
 EVs: 200 HP/252 Atk/56 Spe
 Adamant Nature
@@ -2736,7 +2684,7 @@ EVs: 252 HP/252 Def/4 SpD
 Impish Nature
 -Milk Drink
 -Wish
--Body Slam
+-Body Slam/Head Charge
 -Toxic/Heal Bell/Roar
 
 Knogrinyu @ Leftovers
@@ -2745,7 +2693,7 @@ EVs: 252 HP/4 Def/252 SpD
 Careful Nature
 -Milk Drink
 -Wish
--Body Slam
+-Body Slam/Head Charge
 -Toxic/Heal Bell/Roar
 
 Knogrinyu @ Leftovers
@@ -2843,8 +2791,8 @@ Ability: Tough Claws
 EVs: 252 Atk/4 Def/252 Spe
 Adamant/Jolly Nature
 -Pursuit/Close Combat/Mach Punch
--Ice Punch
--Ice Shard
+-Ice Punch/Ice Hammer
+-Sucker Punch
 -Knock Off
 
 Yedoom @ Leftovers
@@ -3268,6 +3216,15 @@ Adamant Nature
 -Fire Punch/Ice Punch/Thunder Punch/Mach Punch/Bullet Punch
 -Swords Dance/Mach Punch/Bullet Punch
 
+Sonnanos @ Choice Scarf/Choice Band
+Ability: Iron Fist
+EVs: 252 Atk/4 Def/252 Spe
+Jolly Nature
+-Double Iron Bash
+-Hammer Arm
+-Knock Off
+-Fire Punch/Thunder Punch/Ice Punch/Mach Punch/Bullet Punch
+
 Plebbles @ Leftovers
 Ability: Mold Breaker
 EVs: 252 HP/252 Def/4 SpD
@@ -3276,6 +3233,16 @@ Impish Nature
 -Toxic/Glare
 -Stone Edge/Rock Slide
 -Taunt/Glare/Explosion/Memento
+
+Plebbles @ Shell Bell
+Ability: Sturdy
+Level: 1
+EVs: 252 HP/252 Def/4 SpD
+Impish Nature
+-Endeavor
+-Accelerock
+-Toxic
+-Stealth Rock
 
 Plebbles @ Mental Herb/Custap Berry
 Ability: Sturdy
@@ -3287,19 +3254,19 @@ Jolly Nature
 -Stone Edge/Explosion
 
 Ignut @ Eviolite
-Ability: Flame Body/Flash Fire
+Ability: Flame Body
 EVs: 248 HP/252 Def/8 SpD
 Bold Nature
 -Will-O-Wisp
 -Strength Sap
 -Lava Plume
--Heal Bell/Worry Seed/Super Fang
+-Heal Bell/Worry Seed/Super Fang/Leech Seed
 
 Phantash @ Leftovers
 Ability: White Smoke/Air Lock/Cursed Body
 EVs: 252 HP/4 Def/252 SpD
 Calm Nature
--Recover/Strength Sap
+-Recover
 -Moongeist Beam/Hex
 -Will-O-Wisp/Spore
 -Lava Plume/Haze
