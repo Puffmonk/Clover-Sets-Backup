@@ -9,7 +9,7 @@ Ability: Cheek Pouch
 EVs: 12 HP/244 Atk/252 Spe
 Jolly Nature
 -Substitute
--Swords Dance/Belly Drum
+-Belly Drum
 -Enema
 -Earthquake
 
@@ -40,15 +40,6 @@ Jolly Nature
 -Rock Climb
 -Wood Hammer
 
-Rectreem @ Life Orb/Soft Sand
-Ability: Analytic
-EVs: 252 Atk/4 Def/252 Spe
-Jolly Nature
--Swords Dance
--Enema/Earthquake
--Quick Sand
--Rock Climb
-
 Rectreem @ Leftovers
 Ability: Analytic
 EVs: 252 HP/252 Def/4 SpD
@@ -73,7 +64,7 @@ EVs: 252 SpA/4 SpD/252 Spe
 Timid Nature
 -Flamethrower/Fire Blast
 -Dark Pulse
--Sludge Bomb/Aeroblast/Taunt
+-Sludge Bomb/Aeroblast/Psychic/Taunt
 -Nasty Plot
 
 Lizakbar @ Choice Specs/Choice Scarf
@@ -82,7 +73,7 @@ EVs: 252 SpA/4 SpD/252 Spe
 Timid/Modest Nature
 -Flamethrower/Fire Blast
 -Dark Pulse
--Sludge Bomb/Aeroblast
+-Sludge Bomb/Aeroblast/Psychic
 -Holy Duty/Mind Blown
 
 Lizakbar @ Focus Sash
@@ -102,7 +93,7 @@ Bold Nature
 -Scald
 -Rapid Spin
 -Softboiled
--Knock Off/Toxic/Sludge Bomb/Sticky Web/Taunt/Roar
+-Knock Off/Toxic/Sludge Bomb/Sticky Web/Roar
 
 Condoom @ Black Sludge
 Ability: Unaware
@@ -111,7 +102,7 @@ Calm Nature
 -Scald
 -Rapid Spin
 -Softboiled
--Knock Off/Toxic/Sludge Bomb/Sticky Web/Taunt/Roar
+-Knock Off/Toxic/Sludge Bomb/Sticky Web/Roar
 
 Condoom @ Black Sludge
 Ability: Unaware
@@ -194,6 +185,15 @@ Jolly/Adamant Nature
 -Double-Edge/Return
 -Roost/Close Combat
 
+Corooster @ Sharp Beak/Flying Gem
+Ability: Gale Wings
+EVs: 252 HP/252 Atk/4 Def
+Adamant Nature
+-Brave Bird/Acrobatics
+-Roost
+-Defog
+-U-Turn/Tailwind
+
 Corooster @ Choice Band
 Ability: Gale Wings
 EVs: 252 Atk/4 Def/252 Spe
@@ -262,9 +262,9 @@ Ability: Natural Cure/Sap Sipper/Serene Grace
 EVs: 252 Atk/4 Def/252 Spe
 Jolly Nature
 -Swords Dance
--Rock Slide/Stealth Rock/Bullet Punch
+-Superpower
 -Meteor Mash/Iron Head
--Leaf Blade/Futaba Break
+-Futaba Break
 
 Chanolour @ Focus Sash/Leftovers
 Ability: Natural Cure/Sap Sipper
@@ -281,7 +281,7 @@ EVs: 252 HP/4 Def/252 Spe
 Jolly Nature
 -Taunt
 -Spider Web
--Screech
+-Swords Dance
 -Iron Head
 
 Chanolour @ Leftovers
@@ -322,28 +322,37 @@ Jolly Nature
 
 Hazmate @ Choice Band
 Ability: Overcoat
-EVs: 252 HP/252 Atk/4 Def
+EVs: 252 Atk/4 Def/252 Spe
 Adamant Nature
 -Superpower/Cross Chop/Drain Punch
 -Poison Jab/Gunk Shot
 -Earthquake
--Stone Edge/Explosion
+-Knock Off
 
 Hazmate @ Black Sludge
 Ability: Overcoat
 EVs: 252 HP/252 Def/4 SpD
 Impish/Bold Nature
--Will-O-Wisp
+-Will-O-Wisp/Glare
 -Pain Split
 -Clear Smog/Haze/Mop
 -Drain Punch/Seismic Toss
+
+Hazmate @ Black Sludge
+Ability: Overcoat
+EVs: 252 HP/252 Def/4 SpD
+Impish Nature
+-Will-O-Wisp
+-Substitute
+-Focus Munch
+-Seismic Toss/Drain Punch
 
 Ebolable @ Choice Scarf/Choice Specs
 Ability: Liquid Ooze
 EVs: 252 SpA/4 SpD/252 Spe
 Timid/Modest Nature
--Sludge Bomb
--Dark Pulse
+-Sludge Wave
+-Dark Pulse/Night Daze
 -Flamethrower/Scald/Focus Blast
 -Switcheroo/Scald/Destiny Bond/Focus Blast
 
@@ -352,7 +361,7 @@ Ability: Liquid Ooze
 EVs: 252 SpA/4 SpD/252 Spe
 Timid/Modest Nature
 -Sludge Bomb
--Dark Pulse
+-Dark Pulse/Night Daze
 -Flamethrower/Focus Blast
 -Nasty Plot
 
@@ -363,7 +372,7 @@ Timid/Modest Nature
 -Thunderbolt
 -Dazzling Gleam
 -Lactose Shot
--Surf/Hidden Power [Ice]/Energy Ball/Volt Switch
+-Surf/Energy Ball/Volt Switch
 
 Birdhouse @ Leftovers
 Ability: Wooden Guard
@@ -4993,7 +5002,7 @@ Bold Nature
 -Calm Mind
 -Stored Power/Psystrike
 -Recover
--Ice Beam/Thunderbolt
+-Fire Blast/Focus Blast/Dazzling Gleam
 
 Upbeddit @ Leppa Berry
 Ability: Trace
@@ -5010,7 +5019,7 @@ EVs: 252 HP/252 Def/4 SpD
 IVs: 0 Spe
 Relaxed Nature
 -Teleport
--Psychic
+-Psystrike
 -Trick Room
 -Recover/Magic Coat
 
@@ -5023,15 +5032,6 @@ IVs: 0 Atk
 -Fire Blast  
 -Ice Beam  
 -Volt Switch
-
-Upbeddit @ Leftovers
-Ability: Trace
-EVs: 252 HP/252 Def/4 SpD
-Bold Nature
--Calm Mind
--Stored Power/Psychic
--Barrier
--Recover
 
 Wheygle @ Choice Band
 Ability: No Guard
