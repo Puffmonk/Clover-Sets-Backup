@@ -7194,8 +7194,17 @@ Timid Nature
 
 Clovenix @ Leftovers
 Ability: Regenerator
-EVs: 252 SpA/4 SpD/252 Spe or 252 HP/252 Def/4 SpD
-Timid/Modest/Bold Nature
+EVs: 252 SpA/4 SpD/252 Spe
+Timid/Modest Nature
+-Quiver Dance
+-Giga Drain/Energy Ball
+-Flamethrower/Fire Blast
+-Earth Power
+
+Clovenix @ Leftovers
+Ability: Regenerator
+EVs: 252 HP/252 Def/4 SpD
+Bold Nature
 -Quiver Dance
 -Giga Drain/Energy Ball/Earth Power
 -Flamethrower/Fire Blast
@@ -7208,7 +7217,7 @@ Jolly Nature
 -Sacred Fire
 -Futaba Break
 -Earthquake
--Regenerate/U-Turn
+-Dragon Dance
 
 Clovenix @ Choice Band
 Ability: Regenerator
@@ -7270,7 +7279,7 @@ EVs: 248 HP/8 Def/252 SpD
 Careful Nature
 -Substitute
 -Bulk Up
--Leech Life/Earthquake
+-Leech Life/Earthquake/Spectral Thief
 -Extreme Speed
 
 Jewipede @ Leftovers
