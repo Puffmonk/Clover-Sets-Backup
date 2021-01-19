@@ -28,7 +28,7 @@ EVs: 252 Atk/4 Def/252 Spe
 Jolly Nature
 -Earthquake
 -Enema
--Stone Edge
+-Rock Climb
 -Wood Hammer
 
 Rectreem @ Choice Scarf
@@ -37,7 +37,7 @@ EVs: 252 Atk/4 Def/252 Spe
 Jolly Nature
 -Earthquake
 -Enema
--Stone Edge
+-Rock Climb
 -Wood Hammer
 
 Rectreem @ Life Orb/Soft Sand
@@ -47,7 +47,7 @@ Jolly Nature
 -Swords Dance
 -Enema/Earthquake
 -Quick Sand
--Stone Edge
+-Rock Climb
 
 Rectreem @ Leftovers
 Ability: Analytic
@@ -5014,6 +5014,16 @@ Relaxed Nature
 -Trick Room
 -Recover/Magic Coat
 
+Upbeddit @ Choice Specs  
+Ability: Trace  
+EVs: 4 Def/252 SpA/252 Spe
+Modest Nature  
+IVs: 0 Atk  
+-Psystrike  
+-Fire Blast  
+-Ice Beam  
+-Volt Switch
+
 Upbeddit @ Leftovers
 Ability: Trace
 EVs: 252 HP/252 Def/4 SpD
@@ -5870,12 +5880,22 @@ IVs: 0 Spe
 -Stealth Rock
 -Heal Order
 
+Apartmant @ Light Clay
+Ability: More Room
+EVs: 252 HP/252 Def/4 SpD
+Relaxed Nature
+IVs: 0 Spe
+-Trick Room
+-U-Turn
+-Reflect
+-Light Screen
+
 Apartmant @ White Herb
 Ability: Unburden
 EVs: 252 HP/252 Atk/4 Spe
 Adamant Nature
 -Shell Smash
--Leech Life
+-Attack Order
 -Stone Edge
 -Earthquake
 
@@ -5885,8 +5905,8 @@ EVs: 252 Atk/4 Def/252 Spe
 Jolly Nature
 -U-Turn
 -Flare Blitz
--Double-Edge/Overbite
--Leech Life/Gunk Shot
+-Overbite
+-Leech Life/Double-Edge/Gunk Shot/Defog
 
 Maripyro @ Life Orb
 Ability: Magic Guard
@@ -5894,8 +5914,8 @@ EVs: 252 Atk/4 Def/252 Spe
 Jolly Nature
 -U-Turn
 -Flare Blitz
--Double-Edge/Overbite
--Leech Life/Gunk Shot
+-Overbite
+-Leech Life/Gunk Shot/Double-Edge
 
 Maripyro @ Leftovers
 Ability: Magic Guard
@@ -5928,19 +5948,19 @@ Confirmabi @ Life Orb
 Ability: Dazzling
 EVs: 252 SpA/4 SpD/252 Spe
 Timid Nature
--Calm Mind
+-Nasty Plot
 -Giga Drain
--Psychic
--Hidden Power [Fire/Ground]
+-Psychic/Psyshock
+-Earth Power
 
-Confirmabi @ Choice Specs [SFA]
+Confirmabi @ Choice Specs
 Ability: Dazzling
 EVs: 252 SpA/4 SpD/252 Spe
 Timid Nature
 -Leaf Storm
 -Psyshock/Psychic
--Hidden Power [Fire]
--Trick
+-Earth Power
+-Trick/Giga Drain
 
 Bulbapedo @ Leftovers
 Ability: Analytic/Frisk
