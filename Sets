@@ -7427,7 +7427,7 @@ Ability: Teravolt
 EVs: 4 Def/252 SpA/252 Spe
 Timid Nature
 -Blue Flare
--Hidden Power [Grass]
+-Hidden Power [Grass]/[Ice]
 -Thunderbolt
 -Volt Switch
 
@@ -7439,6 +7439,15 @@ Timid/Naive Nature
 -Eruption
 -Thunderbolt
 -Volt Switch/U-Turn
+
+Niterpent @ Life Orb  
+Ability: Technician  
+EVs: 168 Atk/88 SpA/252 Spe  
+Naive Nature  
+-Blue Flare  
+-Bolt Strike  
+-Hidden Power [Ice]  
+-Knock Off
 
 Griffawork @ Choice Specs/Choice Scarf
 Ability: Beast Boost
