@@ -3108,12 +3108,12 @@ Adamant/Jolly Nature
 
 Nutzboltz @ Black Sludge
 Ability: Soundproof
-EVs: 252 HP/252 SpA/4 SpD
-Modest Nature
+EVs: 252 HP/252 Def/4 SpD
+Bold Nature
 -Calm Mind
--Sludge Bomb
+-Roost
 -Oblivion Wing
--Thunderbolt/Ice Beam/Flamethrower
+-Fire Blast/Sludge Bomb/Synchronoise
 
 Nutzboltz @ Leftovers
 Ability: Soundproof
@@ -3130,8 +3130,8 @@ EVs: 252 SpA/4 SpD/252 Spe
 Modest Nature
 -Nasty Plot
 -Oblivion Wing
--Sludge Bomb
--Fire Blast
+-Sludge Bomb/Synchronoise
+-Fire Blast/Synchronoise
 
 Kuklan @ Life Orb/Focus Sash
 Ability: Levitate
